@@ -1,16 +1,28 @@
-### Hi there 👋
+<h2> Hey there! I'm Alex.</h2>
 
-<!--
-**alex-borovikov/alex-borovikov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-Here are some ideas to get you started:
+- 🤔 &nbsp; Exploring new technologies and developing software solutions.
+- 🎓 &nbsp; I’m currently learning MERN stack
+- 💼 &nbsp; Searching for offers
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3> 🛠 &nbsp;Tech Stack</h3>
+
+- 💻 &nbsp; Javascript
+- 🌐 &nbsp; HTML5 | CSS3 | Material UI | Node.js | Express | React
+- 🛢 &nbsp; Mongo DB
+- ⚙️ &nbsp; Git | Github
+- 🔧 &nbsp; Webstorm | PHPStorm | Visual Studio Code
+- 🖥 &nbsp; Photoshop | Figma
+
+<br/>
+
+
+
+<h3> 🤝🏻 &nbsp;Connect with Me </h3>
+
+<p align="center">
+<a href="https://www.linkedin.com/in/alex-borovikov/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Alex%20Borovikov-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://www.instagram.com/ozerov.live"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-ozerov.live-blue?style=flat-square&logo=instagram"></a>
+<a href="mailto:alex.borrovikov@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-alex.borrovikov@gmail.com-blue?style=flat-square&logo=gmail"></a>
+</p>
