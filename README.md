@@ -4,7 +4,6 @@
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions.
 - 🎓 &nbsp; I’m currently learning MERN stack
-- 💼 &nbsp; Searching for offers
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
